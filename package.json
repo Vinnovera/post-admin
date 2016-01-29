@@ -1,0 +1,19 @@
+{
+  "name": "post-admin",
+  "version": "1.0.0",
+  "description": "Manage posts in a simple way and expose them trough a JSON api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinnovera/post-admin.git"
+  },
+  "author": "Max von Krusenstierna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vinnovera/post-admin/issues"
+  },
+  "homepage": "https://github.com/Vinnovera/post-admin#readme"
+}
